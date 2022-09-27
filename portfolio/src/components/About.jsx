@@ -17,11 +17,15 @@ const About = () => {
               <p>Hi. I'm Fawez, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>I’m a FullStack JavaScript developer, also
+I'm a great communicator, dynamic and
+problem solving person. through my
+experience I'd worked on a lot of projects
+that made me technically confident, but I
+still aiming to learn more technologies
+and that's why I'm looking to develop my
+knowledge skills.
+</p>  
             </div>
           </div>
       </div>

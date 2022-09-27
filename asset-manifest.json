@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.656f63d6.css",
+    "main.js": "/Portfolio/static/js/main.83556ba9.js",
+    "static/media/realestate.jpg": "/Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/Nuxt.png": "/Portfolio/static/media/Nuxt.556b3bdcd45322ba31c7.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.ff932d205894495b9bc6.png",
+    "static/media/Reactnative.png": "/Portfolio/static/media/Reactnative.a9cfbce3b88589618e4e.png",
+    "static/media/workImg.jpeg": "/Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/Mysql.png": "/Portfolio/static/media/Mysql.f64b950d596a27de8678.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Vue.png": "/Portfolio/static/media/Vue.b73be31a14a6e653a9b9.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/express.png": "/Portfolio/static/media/express.0eaa63053efc1d174e9b.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/Next.png": "/Portfolio/static/media/Next.90d12eb2fbb5346feced.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/Tailwind.png": "/Portfolio/static/media/Tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.656f63d6.css.map": "/Portfolio/static/css/main.656f63d6.css.map",
+    "main.83556ba9.js.map": "/Portfolio/static/js/main.83556ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656f63d6.css",
+    "static/js/main.83556ba9.js"
+  ]
+}

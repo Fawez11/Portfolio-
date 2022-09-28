@@ -18,13 +18,9 @@ const About = () => {
             </div>
             <div>
               <p>I’m a FullStack JavaScript developer, also
-I'm a great communicator, dynamic and
-problem solving person. through my
-experience I'd worked on a lot of projects
-that made me technically confident, but I
-still aiming to learn more technologies
-and that's why I'm looking to develop my
-knowledge skills.
+I'm a great communicator, dynamic and problem solving person.
+through my experience I'd worked on a lot of projects that made me technically confident,
+but I still aiming to learn more technologiesand that's why I'm looking to develop myknowledge skills.
 </p>  
             </div>
           </div>

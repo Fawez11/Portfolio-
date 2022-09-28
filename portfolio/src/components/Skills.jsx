@@ -75,7 +75,7 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={express} alt="HTML icon" />
                   <p className='my-4'>EXPRSS JS </p>
               </div>
-              {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
                   <p className='my-4'>TAILWINDCSS</p>
               </div>
@@ -90,7 +90,7 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={fireBase} alt="HTML icon" />
                   <p className='my-4'>FIREBASE</p>
-              </div> */}
+              </div> 
              
              
              
